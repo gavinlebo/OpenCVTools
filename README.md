@@ -1,2 +1,2 @@
 # OpenCVTools
-A library of additional support tools for OpenCV.
+An ongoing collection of things I wished existed in OpenCV.
